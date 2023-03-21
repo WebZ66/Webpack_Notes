@@ -8,4 +8,4 @@ npm install webpack
 npm install webpack-cli
 
 # 运行 
-npx webpack 或者查看webpack笔记
+npx webpack 或者查看 [webpack笔记](https://juejin.cn/post/7212539744675758138)
